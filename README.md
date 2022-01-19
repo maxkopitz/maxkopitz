@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+📫 How to reach me: [mlkopitz@umich.edu](mailto:mlkopitz@umich.edu).
 <!--
 **maxkopitz/maxkopitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
