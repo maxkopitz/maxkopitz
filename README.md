@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-📎 [Resume](https://maxwell-dev.s3.us-east-2.amazonaws.com/Kopitz_Maxwell_Resume.pdf)
-💻 My personal website: [Maxwell.dev](https://maxwell.dev/)
-📫 How to reach me: [mlkopitz@umich.edu](mailto:mlkopitz@umich.edu).
+- 📎 [Resume](https://maxwell-dev.s3.us-east-2.amazonaws.com/Kopitz_Maxwell_Resume.pdf)
+- 💻 My personal website: [Maxwell.dev](https://maxwell.dev/)
+-📫 How to reach me: [mlkopitz@umich.edu](mailto:mlkopitz@umich.edu).
 <!--
 **maxkopitz/maxkopitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
